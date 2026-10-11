@@ -5,7 +5,7 @@ from app.errors import add_error_handlers
 
 app = FastAPI(
     title="Осмотр авто — API",
-    description="Пользователи, автомобили и осмотры. Лабораторная работа №2.",
+    description="Пользователи, автомобили и осмотры.",
     version="1.0.0",
 )
 add_error_handlers(app)
