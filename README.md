@@ -42,7 +42,7 @@ npm run dev
 
 Связи:
 
-```text
+```
 users (1) ─── (N) cars (1) ─── (N) inspections
 ```
 
